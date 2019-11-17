@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>nl.jqno.mutable.java</groupId>
     <artifactId>mutable-java</artifactId>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>Mutable Java</name>
     <version>0.1-SNAPSHOT</version>
